@@ -1,3 +1,3 @@
-module github.com/alexdelprete/traefik-oidc-relying-party
+module github.com/titouan-joseph/traefik-oidc-relying-party
 
 go 1.19
